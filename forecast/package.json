@@ -1,4 +1,5 @@
 {
+  "homepage" : "http://semarj.github.io/forecast",
   "name": "forecast",
   "version": "0.1.0",
   "private": true,
